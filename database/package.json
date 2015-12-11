@@ -1,0 +1,11 @@
+{
+  "name": "database",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "author": "Suraj Mohanan",
+  "license": "ISC"
+}
